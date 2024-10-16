@@ -1,0 +1,6 @@
+
+username: ogehebor
+password: wsWhMDGJUQthQlxP
+
+database_email_address: ogehebor@gmail.com pssw:Ogeh2024
+connection_string: mongodb+srv://ogehebor:wsWhMDGJUQthQlxP@cloud9.vgm2e.mongodb.net/?retryWrites=true&w=majority&appName=cloud9
